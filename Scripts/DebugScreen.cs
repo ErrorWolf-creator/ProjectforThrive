@@ -53,7 +53,7 @@ public class DebugScreen : MonoBehaviour
 
 
 
-        string debugText = "b3agz' Code a Game Like Minecraft in Unity";
+        string debugText = "Thrive";
 
         debugText += "\n";
 
